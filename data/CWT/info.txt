@@ -1,0 +1,3 @@
+This folder contains scripts and data (in wavelet coefficients).
+Coefficients was extracted by using CWT function in MATLAB.
+There four scripts, used in sequence, for extracting one feature (avg power).
