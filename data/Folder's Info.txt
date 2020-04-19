@@ -1,0 +1,3 @@
+This folder contains processed data for CWT and DWT Scheme.
+Raw data was retrieved from R.A.L.E Lung Sounds.
+There are three scripts for reading and processing raw data.
