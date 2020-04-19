@@ -1,0 +1,2 @@
+This folder contains scripts for extracting features from wavelet coefficients.
+Coefficients was extracted using wavedec function in MATLAB.
